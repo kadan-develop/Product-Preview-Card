@@ -44,7 +44,7 @@ main {
   width: 550px;
   height: 400px;
   display: flex;
-  margin: 180px auto 100px auto;
+  margin: 250px auto 100px auto;
   border-radius: 15px;
   background-color: hsl(0, 0%, 100%);
 }
