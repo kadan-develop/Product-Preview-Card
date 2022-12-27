@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-CSxOYHBQTY](https://www.frontendmentor.io/solutions/product-preview-card-component-CSxOYHBQTY)
+- Live Site URL: [https://vermillion-sfogliatella-a4aff9.netlify.app/](https://vermillion-sfogliatella-a4aff9.netlify.app/)
 
 ## My process
 
@@ -28,4 +28,4 @@
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kadan-develop)
+- Frontend Mentor - [@kadan-develop](https://www.frontendmentor.io/profile/kadan-develop)
